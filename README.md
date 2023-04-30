@@ -1,6 +1,5 @@
-# Javascript-ile-To-Do-List
----
-Proje Ekran Görüntüsü
-***
+# Javascript To-Do-List
 
-![](/toDoList/images/ToDoList.JPG)
+Proje Ekran Görüntüsü
+
+![img](../toDoList/ToDoList.JPG)
