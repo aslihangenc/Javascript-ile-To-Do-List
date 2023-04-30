@@ -2,4 +2,4 @@
 
 Proje Ekran Görüntüsü
 
-![img](../toDoList/ToDoList.JPG)
+![img](/ToDoList.JPG)
